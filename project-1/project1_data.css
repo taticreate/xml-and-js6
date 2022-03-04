@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+table tr {
+    background-color: #009800;
+    color: white;
+    text-align: center;
+    
+}
+
+table th {
+    padding: 10px;
+}
+
+h2 {
+    color:#009800;
+}
+
+p {
+    font-weight: bold;
+    color:#009800;
+}

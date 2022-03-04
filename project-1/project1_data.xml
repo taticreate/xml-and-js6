@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<OfficeTables>
+  <Table>
+      <Name>Gia Desk</Name>
+      <Size unit="cm">224</Size>
+      <DeskFinish>Wanut Vaneer</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1729</Price>
+          <Price membership="Premium">2499</Price>
+      </Prices>
+      <Image>/t1.png</Image>
+      <Description>
+          Breathtaking and intriguing, the Gia draws you in with its elegant and architectural silhouette. Like a waterfall, the smooth walnut top cascades down the side while the marble anchors the other side. The Gia Desk combines functionality and luxury into any space. 
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">31.5</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FMonarch-Specialties-Computer-Desk-Reclaimed%2Fdp%2FB07GFR9D8D%2Fref%3Dsr_1_23%3Fqid%3D1646247609%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-23</link>
+  </Table>
+  <Table>
+      <Name>Augustus Desk</Name>
+      <Size unit="cm">224</Size>
+      <DeskFinish>White Marble</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1949</Price>
+          <Price membership="Premium">2436</Price>
+      </Prices>
+      <Image>/t2.png</Image>
+      <Description>
+          A fresh and avant-garde take on office furniture, the Augustus Desk elevates any space. The subtle brass metal detailing enhances the luxurious marble base. While the smooth top available in walnut, matte black or white lacquer adds a touch of modern utility. Combine with the Augustus Storage Unit for the ultimate office space. 
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">43</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/gia-desk</link>
+  </Table>
+  <Table>
+      <Name>Georgio Desk</Name>
+      <Size unit="cm">224</Size>
+      <DeskFinish>Smooth American walnut veneer top</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1849</Price>
+          <Price membership="Premium">2324</Price>
+      </Prices>
+      <Image>/t3.png</Image>
+      <Description>
+          Georgio is an unparalleled contemporary desk, that captures the pure essence of modern luxury. Minute brass details and judiciously applied materials, accentuate the linear lines of the rich ebony storage unit and walnut slat detail. The Georgio Desk is the perfect foundation for any workspace.
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">43</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/georgio-desk</link>
+  </Table>
+  <Table>
+      <Name>Massimo Desk</Name>
+      <Size unit="cm">198</Size>
+      <DeskFinish>Black Marble</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1190</Price>
+          <Price membership="Premium">1560</Price>
+      </Prices>
+      <Image>/t4.png</Image>
+      <Description>
+          Step into the luxuriant feel of the Massimo Desk, a modern take on the traditional office desk. The charming and captivating silhouette combined with the elegant marble accent, rich walnut veneer, and tambour detailing will inspire refined sophistication in any space.
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">43</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/massimo-desk</link>
+  </Table>
+  <Table>
+      <Name>Cascadia Desk</Name>
+      <Size unit="cm">122</Size>
+      <DeskFinish>Alabaster Concrete</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1690</Price>
+          <Price membership="Premium">2560</Price>
+      </Prices>
+      <Image>/t5.png</Image>
+      <Description>
+          Relish in the captivating spirit of the Cascadia. Uniting luxurious sophistication with an understated design, the Cascadia Desk illuminates any space with its smooth contours and unparalleled silhouette. 
+      </Description>
+      <Dimentions>
+          <w unit="in">75</w>
+          <h unit="in">43</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/cascadia-desk</link>
+  </Table>
+  
+  <Table>
+      <Name>Athena Desk</Name>
+      <Size unit="cm">112</Size>
+      <DeskFinish>Alabaster Matte Lacquer</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1124</Price>
+          <Price membership="Premium">2234</Price>
+      </Prices>
+      <Image>/t5.png</Image>
+      <Description>
+      The modern, fresh, and captivating embodiment of the Athena Desk sweeps you into a whirlwind of delight and sophistication. Combining everyday functionality with unparalleled design through the elegant composition and luxuriant materials, the Athena softly brings a sense of refined grace to any office space.
+      </Description>
+      <Dimentions>
+          <w unit="in">75</w>
+          <h unit="in">43</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/athena-desk</link>
+  </Table>
+  <Table>
+      <Name>Arlo Desk</Name>
+      <Size unit="cm">122</Size>
+      <DeskFinish>Alabaster Concrete</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1690</Price>
+          <Price membership="Premium">2560</Price>
+      </Prices>
+      <Image>/t7.png</Image>
+      <Description>
+          Revitalize your office space with an opulent, contemporary design. The striking, elegant details of the Arlo Desk inspires endless creativity and productivity. While the brass metal finishes combined with the smooth top. Arlo evokes a sense of extravagance to any workspace.
+
+
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">39</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/arlo-desk</link>
+  </Table>
+  <Table>
+      <Name>Gia Desk Compact</Name>
+      <Size unit="cm">92</Size>
+      <DeskFinish>Black Oak Vaneer</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">690</Price>
+          <Price membership="Premium">1160</Price>
+      </Prices>
+      <Image>/t8.png</Image>
+      <Description>
+          Breathtaking and intriguing, the Gia draws you in with its elegant and architectural silhouette. Like a waterfall, the smooth walnut top cascades down the side while the marble anchors the other side. The Gia Desk - Compact combines functionality and luxury into any space.
+
+      </Description>
+      <Dimentions>
+          <w unit="in">48</w>
+          <h unit="in">24</h>
+          <d unit="in">29</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/gia-desk-compact</link>
+  </Table>
+  <Table>
+      <Name>Vera Desk</Name>
+      <Size unit="cm">83</Size>
+      <DeskFinish>Glossy White Lacquer</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1067</Price>
+          <Price membership="Premium">1345</Price>
+      </Prices>
+      <Image>/t9.png</Image>
+      <Description>
+          The minimal and refined Vera Desk symbolizes modern functionality. A polished and structured design that immerses you in an atmosphere of absolute productivity. Its sleek metal legs and built-in drawers are perfect for maintaining a balanced and uncluttered space. 
+      </Description>
+      <Dimentions>
+          <w unit="in">45</w>
+          <h unit="in">17</h>
+          <d unit="in">28</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/vera-desk</link>
+  </Table>
+  <Table>
+      <Name>Winston Rectangular Table</Name>
+      <Size unit="cm">112</Size>
+      <DeskFinish>Alabaster Concrete</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">2399</Price>
+          <Price membership="Premium">2999</Price>
+      </Prices>
+      <Image>/t10.png</Image>
+      <Description>
+          The Winston Rectangular Table has a unique aesthetic, borrowing elements from both the mid-century modern style as well as from contemporary minimalism. Its intentional single pedestal base with brass metal accent is uncluttered yet sophisticated in design with a clean Scandinavian inspired top. Also available in round sizes. 
+      </Description>
+      <Dimentions>
+          <w unit="in">88</w>
+          <h unit="in">47</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https://www.roveconcepts.com/winston-rectangular-table</link>
+  </Table>
+  
+  <Table>
+      <Name>SHW Home Office Computer Desks, Black, 48-Inch</Name>
+      <Size unit="cm">121</Size>
+      <DeskFinish>Dark Lamination</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">114</Price>
+          <Price membership="Premium">99</Price>
+      </Prices>
+      <Image>/t11.png</Image>
+      <Description>
+          Modern design: Great for home office, studio, bedroom and also kitchen as a dinning table.Material: steel frame, powder coated finish, Environmental particle board. Easy to Assembly, step by step instruction and hardwares included.
+      </Description>
+      <Dimentions>
+          <w unit="in">54</w>
+          <h unit="in">33</h>
+          <d unit="in">27</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FSHW-Office-48-Inch-Computer-Black%2Fdp%2FB07Q33BDKC%2Fref%3Dsr_1_6%3Fqid%3D1646247425%26amp%3Brefinements%3Dp_36%253A12035764011%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-6</link>
+  </Table>
+  <Table>
+      <Name>SHW Standing Desk Electric Height Adjustable</Name>
+      <Size unit="cm">116</Size>
+      <DeskFinish>Matte Plastic Lamination</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">298</Price>
+          <Price membership="Premium">288</Price>
+      </Prices>
+      <Image>/t12.png</Image>
+      <Description>
+          ncluded Accessories: 2 hanging hooks, cable management organizer and a multi-purposed center drawer. Mobility - ease to move between working space with 4 lockable wheels.Digital Display Handset - 4 memory preset options for easy adjustment. Electric Lift System - Fully motorized lift from 28 to 46 Inches height.Telescopic Height Adjustment - The strong legs use telescopic adjustment transitioning from sitting to standing from 28" to 46" (71.1 cm to 116.8 cm). High-grade industrial steel, Desk Top has the grommets to organize your cords.
+      </Description>
+      <Dimentions>
+          <w unit="in">73</w>
+          <h unit="in">42</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FSHW-Standing-Electric-Adjustable-Management%2Fdp%2FB08668Y49C%2Fref%3Dsr_1_9%3Fqid%3D1646247425%26amp%3Brefinements%3Dp_36%253A12035764011%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-9%26amp%3Bth%3D1</link>
+  </Table>
+  <Table>
+      <Name>PrimeCables Electric Standing Desk</Name>
+      <Size unit="cm">120</Size>
+      <DeskFinish>Glass White</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">475</Price>
+          <Price membership="Premium">420</Price>
+      </Prices>
+      <Image>/t13.png</Image>
+      <Description>
+          Cord management under desk provides neat and clean working space The All-in-One Standing Desk takes up minimal floor space while offering one of the most spacious desktops available. A nook, corner or empty wall is all that's needed to fit for building your little corner office at the comfort of your home.
+      </Description>
+      <Dimentions>
+          <w unit="in">74</w>
+          <h unit="in">33</h>
+          <d unit="in">29</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FPrimeCables-Electric-Standing-Adjustable-Tabletop%2Fdp%2FB09CKNF979%2Fref%3Dsr_1_13%3Fqid%3D1646247425%26amp%3Brefinements%3Dp_36%253A12035764011%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-13</link>
+  </Table>
+  <Table>
+      <Name>Vitesse 63 inch Gaming Desk</Name>
+      <Size unit="cm">160</Size>
+      <DeskFinish>Textured Plastic</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">270</Price>
+          <Price membership="Premium">225</Price>
+      </Prices>
+      <Image>/t14.png</Image>
+      <Description>
+          Vitesse multifunction desk the best way to ensure a fluid gaming experience is having an organized station and that being said there’s nothing more satisfying than having an organized and easy accessibility for everything on. Aggressive looking desk which is geared towards e-sport fanatics and serious gamers who want to have a real battle station. 
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">33</h>
+          <d unit="in">30</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FVitesse-T-Shaped-Computer-Professional-Headphone%2Fdp%2FB08CBV8KPZ%2Fref%3Dsr_1_17%3Fqid%3D1646247425%26amp%3Brefinements%3Dp_36%253A12035764011%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-17%26amp%3Bth%3D1</link>
+  </Table>
+  <Table>
+      <Name>ApexDesk AX71-WHITE Elite Series W Electric Height Adjustable Standing Desk</Name>
+      <Size unit="cm">180</Size>
+      <DeskFinish>Engineered Wood</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1821</Price>
+          <Price membership="Premium">1750</Price>
+      </Prices>
+      <Image>/t15.png</Image>
+      <Description>
+          Debuted in 2015 and for six years running, the Elite Series has been the favorite of reviewers and users. Many improvements have been made over the years. The desk has become more stable, quieter. We’ve updated packaging to reduce shipping damages to a minimum. Replacement parts are shipped within 24hrs from Los Angeles if shipping damage occurs. The desk ships in three packages and may arrive 1 to 2 days apart.
+      </Description>
+      <Dimentions>
+          <w unit="in">66</w>
+          <h unit="in">33</h>
+          <d unit="in">26</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FApexDesk-Electric-Adjustable-Controller-Off-White%2Fdp%2FB00WL75G0O%2Fref%3Dsr_1_9%3Fqid%3D1646247575%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-9%26amp%3Bth%3D1</link>
+  </Table>
+  
+  <Table>
+      <Name>Sauder Palladia Contemporary Wood L-Shape Computer Desk</Name>
+      <Size unit="cm">174</Size>
+      <DeskFinish>Oak</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1299</Price>
+          <Price membership="Premium">1200</Price>
+      </Prices>
+      <Image>/t16.png</Image>
+      <Description>
+Whether its writing out bills or getting some work done from the comfort of your own home, this L-shaped desk from the Palladia collection is just what your home needs. This computer desk offers a spacious top surface that provides you with the room you need for all your office essentials like your laptop/monitor, stacks of notepads, a hot cup of coffee and even an accent lamp. This home office desk features a drawer/shelf with a flip-down panel for your laptop or keyboard. This L-shaped office desk also includes a file drawer with full extension slides to hold letter or legal size hanging files. There are three additional drawers that open and close on smooth metal runners for convenient storage space of office supplies. Behind the door is a storage area that can hold a vertical CPU tower and has an adjustable shelf. Keep wires organized and out of the way with the desk top grommet holes. Finished on all sides in Split Oak, this stunning L-shaped desk will make a great addition to your home.
+      </Description>
+      <Dimentions>
+          <w unit="in">75</w>
+          <h unit="in">43</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FSauder-424811-Palladia-L-Desk-Finish%2Fdp%2FB07TFZYZ6J%2Fref%3Dsr_1_10%3Fqid%3D1646247575%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-10</link>
+  </Table>
+  <Table>
+      <Name>Sauder Palladia L-Desk</Name>
+      <Size unit="cm">174</Size>
+      <DeskFinish>Wind Oak Finish</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1217</Price>
+          <Price membership="Premium">1199</Price>
+      </Prices>
+      <Image>/t17.png</Image>
+      <Description>
+          Drawer/shelf features flip-down panel for laptop or keyboard/mouse and can be fastened on the left or right side. Desktop has grommet holes for electrical cord access | File drawer with full extension slides holds letter or legal size hanging file. Storage area behind door holds vertical CPU tower and has an adjustable shelf | Three additional drawers feature metal runners and safety stops to keep you and your family safe 
+      </Description>
+      <Dimentions>
+          <w unit="in">68</w>
+          <h unit="in">65</h>
+          <d unit="in">29.75</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FSauder-417714-Desk-Wind-Oak%2Fdp%2FB00MNQGY40%2Fref%3Dsr_1_11%3Fqid%3D1646247575%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-11</link>
+  </Table>
+  <Table>
+      <Name>Bestar Connexion Collection, Modern L or U-Shaped Executive Office Desk</Name>
+      <Size unit="cm">235</Size>
+      <DeskFinish>Plastic</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1788</Price>
+          <Price membership="Premium">1656</Price>
+      </Prices>
+      <Image>/t18.png</Image>
+      <Description>
+          Connexion is a contemporary and durable collection that features a wide variety of configuration options that will adapt to your specific needs.
+The desk is made of durable 1“ commercial grade work surface with melamine finish that resist scratches, stains and wear. It features an impact resistant 0.25 cm PVC edge. Grommets and a rubber strip are available on the station for efficient wire management. The executive desk, the credenza, the hutch and the bridge meet or exceed ANSI/BIFMA performance standards. 
+      </Description>
+      <Dimentions>
+          <w unit="in">111</w>
+          <h unit="in">78</h>
+          <d unit="in">33</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2Fbestar-99450-39-U-Shaped-Workstation%2Fdp%2FB01LO5BUEY%2Fref%3Dsr_1_13%3Fqid%3D1646247575%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-13%26amp%3Bth%3D1</link>
+  </Table>
+  <Table>
+      <Name>Sauder Clifford Place L-Shaped Desk</Name>
+      <Size unit="cm">150</Size>
+      <DeskFinish>Grand Walnut</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1128</Price>
+          <Price membership="Premium">1099</Price>
+      </Prices>
+      <Image>/t19.png</Image>
+      <Description>
+          Slide-out keyboard/mouse shelf with metal runners and safety stops to keep you and your family safe. Two drawers with full extension slides hold letter-size hanging files to keep your important documents organized.Three drawers with metal runners and safety stops conceal miscellaneous office supplies. Return can be fastened on the left or right side to fit your space best
+Grommet holes and pass-through allow convenient paths for cables and cords.
+      </Description>
+      <Dimentions>
+          <w unit="in">67</w>
+          <h unit="in">33</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FSauder-Clifford-Shaped-Computer-Walnut%2Fdp%2FB07BY8FTYY%2Fref%3Dsr_1_14%3Fqid%3D1646247575%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-14</link>
+  </Table>
+  <Table>
+      <Name>Cabot Collection L-Desk and Hutch</Name>
+      <Size unit="cm">150</Size>
+      <DeskFinish>Alabaster Concrete</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1125</Price>
+          <Price membership="Premium">1100</Price>
+      </Prices>
+      <Image>/t20.png</Image>
+      <Description>
+          60-inch l-desk and matching 60-inch hutch are perfect for home office or work office. Desk features box drawer and file drawer for legal, letter, or a4 files. Cabinets on desk and hutch feature fluted glass doors
+Built-in 4-port USB hub makes it easy to connect four devices. All drawers feature full-extension, ball-bearing slides
+      </Description>
+      <Dimentions>
+          <w unit="in">60</w>
+          <h unit="in">35</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FCabot-Collection-L-Desk-and-Hutch%2Fdp%2FB007R40F8Y%2Fref%3Dsr_1_15%3Fqid%3D1646247575%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-15</link>
+  </Table>
+  
+  <Table>
+      <Name>DESIGNA 61 inches Electric L Shaped Standing Desk</Name>
+      <Size unit="cm">122</Size>
+      <DeskFinish>Engineered Wood</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1457</Price>
+          <Price membership="Premium">1399</Price>
+      </Prices>
+      <Image>/t21.png</Image>
+      <Description>
+      L-shaped corner designa is very nice in a corner at your home and maximize help you to save space,and the round corner design better protecte your family from bruising.
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">30</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FDESIGNA-Electric-Standing-Adjustable-Computer%2Fdp%2FB092QVP6DF%2Fref%3Dsr_1_18%3Fqid%3D1646247609%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-18</link>
+  </Table>
+  <Table>
+      <Name>Bestar, Ridgeley Collection, 3-Piece Set Including a U or L-Shaped Desk</Name>
+      <Size unit="cm">150</Size>
+      <DeskFinish>White BEstar</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1577</Price>
+          <Price membership="Premium">1399</Price>
+      </Prices>
+      <Image>/t22.png</Image>
+      <Description>
+      This set is made from laminated, high-density commercial-grade particle board with melamine finish, compliant with Carb phase 2. Brushed nickel handles. Desktop is 1” thick. The ample surface of our contemporary U-shaped workstation lets you lay out your papers or electronic devices comfortably. Desk: 1 utility drawer, 1 legal/letter file drawer, 1 open storage area. Hutch: 2 shelves, 2 closed storage areas. File cabinet: 2 legal/letter file drawers. Bookcase: 5 shelves.
+      </Description>
+      <Dimentions>
+          <w unit="in">76</w>
+          <h unit="in">37</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FU-Shaped-Desk-lateral-File-Bookcase%2Fdp%2FB01N1EMASK%2Fref%3Dsr_1_19%3Fqid%3D1646247609%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-19%26amp%3Bth%3D1</link>
+  </Table>
+  <Table>
+      <Name>Saratoga Executive L- Desk</Name>
+      <Size unit="cm">180</Size>
+      <DeskFinish>Laminated</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">1690</Price>
+          <Price membership="Premium">2560</Price>
+      </Prices>
+      <Image>/t23.png</Image>
+      <Description>
+          Efficient: storage and file drawers with full extension ball-bearing slides. Stable: files provide interlocking drawers that reduce the risk of tipping. Versatile: desk assembles for either a left or right handed user. Classic: gold-finished brass pulls on drawers. commercial quality backed by Bush Business Furniture 10 Year Warranty
+      </Description>
+      <Dimentions>
+          <w unit="in">74</w>
+          <h unit="in">40</h>
+          <d unit="in">29.5</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FBush-Business-Furniture-EX45670-03K-Executive%2Fdp%2FB000W8LC6G%2Fref%3Dsr_1_17%3Fqid%3D1646247609%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-17</link>
+  </Table>
+  <Table>
+      <Name>Vintage Drafting Table</Name>
+      <Size unit="cm">160</Size>
+      <DeskFinish>Reclaimed Wood Table Top</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">2762</Price>
+          <Price membership="Premium">2599</Price>
+      </Prices>
+      <Image>/t5.png</Image>
+      <Description>
+          Relish in the captivating spirit of the Cascadia. Uniting luxurious sophistication with an understated design, the Cascadia Desk illuminates any space with its smooth contours and unparalleled silhouette. 
+      </Description>
+      <Dimentions>
+          <w unit="in">63</w>
+          <h unit="in">31</h>
+          <d unit="in">33</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FDrafting-Industrial-Standing-Reclaimed-Adjustable%2Fdp%2FB07YR6GFWF%2Fref%3Dsr_1_21%3Fqid%3D1646247609%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-21</link>
+  </Table>
+  <Table>
+      <Name>Monarch Specialties Computer Desk</Name>
+      <Size unit="cm">150</Size>
+      <DeskFinish>Wood</DeskFinish>
+      <Prices currency="CA">
+          <Price membership="Regular">899</Price>
+          <Price membership="Premium">600</Price>
+      </Prices>
+      <Image>/t25.png</Image>
+      <Description>
+          Contemporary design in a trendy taupe wood grain look with black accents. The side shelf unit can be assembled on the left or right side of the desk. Abundant storage with 2 medium side drawers. 1 convenient lateral drawer for standard or legal size folders. Adjustable shelves in the front and side
+      </Description>
+      <Dimentions>
+          <w unit="in">70</w>
+          <h unit="in">40</h>
+          <d unit="in">24</d>
+      </Dimentions>
+      <link>https%3A%2F%2Fwww.amazon.ca%2FMonarch-Specialties-Computer-Desk-Reclaimed%2Fdp%2FB07GFR9D8D%2Fref%3Dsr_1_23%3Fqid%3D1646247609%26amp%3Brefinements%3Dp_36%253A100000-500000%26amp%3Brnid%3D12035759011%26amp%3Bs%3Dkitchen%26amp%3Bsr%3D1-23</link>
+  </Table>
+  
+</OfficeTables>

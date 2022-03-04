@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Office Tables</title>
+  <link rel='stylesheet' href='project1_data.css'/>
+</head>
+<body>
+    <h2>Office Tables Inventory</h2>
+    <form id="search" onreset="search()">
+    <input type="text" name="search" placeholder="enter a keyword" id="startsearch" />
+    </br></br>
+
+    
+    <p>Filter by Price:</p>
+    <input type="radio" id="regular" name="regular" value="Regular" >
+    <label for="regular"> Regular Price</label></br>
+    <input type="radio" id="premium" name="premium" value="Premium" >
+    <label for="premium"> Premium Price</label></br>
+    
+    
+    <p>Filter by Size:</p>
+    <input type="checkbox" id="size83" name="size83" value="size83" >
+    <label for="size83"> 83cm </label></br>
+    <input type="checkbox" id="size92" name="size92" value="size92" >
+    <label for="size92"> 92cm </label></br>
+    <input type="checkbox" id="size112" name="size112" value="size112" >
+    <label for="size112"> 112cm </label></br>
+    <input type="checkbox" id="size116" name="size116" value="size116" >
+    <label for="size116"> 116cm </label></br>
+    <input type="checkbox" id="size120" name="size120" value="size120" >
+    <label for="size120"> 120cm </label></br>
+    <input type="checkbox" id="size121" name="size121" value="size121" >
+    <label for="size121"> 121cm </label></br>
+    <input type="checkbox" id="size122" name="size122" value="size122" >
+    <label for="size122"> 122cm </label></br>
+    <input type="checkbox" id="size150" name="size150" value="size150" >
+    <label for="size150"> 150cm </label></br>
+    <input type="checkbox" id="size160" name="size160" value="size160" >
+    <label for="size160"> 160cm </label></br>
+    <input type="checkbox" id="size180" name="size180" value="size180" >
+    <label for="size180"> 180cm </label></br>
+    <input type="checkbox" id="size198" name="size198" value="size198" >
+    <label for="size198"> 198cm </label></br>
+    <input type="checkbox" id="size174" name="size174" value="size174" >
+    <label for="size174"> 174cm </label></br>
+    <input type="checkbox" id="size224" name="size224" value="size224" >
+    <label for="size224"> 224cm </label></br>
+    <input type="checkbox" id="size235" name="size235" value="size235" >
+    <label for="size235"> 235cm </label></br>
+    
+    </br></br>
+
+    
+    <button type="submit">Submit</button>
+    <button type="reset" class="reset">Reset</button>
+    
+  </form>
+    </br></br>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Size</th>
+      <th>Desk Finish</th>
+      <th>Price</th>
+      <th>Image</th>
+      <th>Description</th>
+      <th>Dimentions</th>
+      <th>Link</th>
+    </tr>
+  </table>
+
+  <script type="text/javascript" src="project1_data.js"></script>
+</body>
+</html>

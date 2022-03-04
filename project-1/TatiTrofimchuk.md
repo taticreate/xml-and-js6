@@ -1,0 +1,2 @@
+For this group project we divided the work evenly, with each member doing a difficult part of the required code. I was responsible for creating HTML file for interpreting the xml items, and an CSS file for styling. I also coded the html to encorporate Submit and Reset buttons, text input, radio buttons and checkboxes.
+I had to verify that the html displayed appropriately in the browser.
